@@ -10,7 +10,6 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/officel/16/000000/instagram-new.png" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -42,5 +41,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=bashiru98&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bashiru's GitHub Stats"/>
 </a>
 
-[facebook]: https://www.instagram.com/bashiru196
+[instagram]: https://www.instagram.com/bashiru196
 [linkedin]: https://www.linkedin.com/in/bashiru-bukari-187016140/
