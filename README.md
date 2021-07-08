@@ -42,5 +42,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=bashiru98&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bashiru's GitHub Stats"/>
 </a>
 
-[facebook]: https://www.facebook.com/bashiru.atulebukari.9
+[facebook]: https://www.instagram.com/bashiru196
 [linkedin]: https://www.linkedin.com/in/bashiru-bukari-187016140/
