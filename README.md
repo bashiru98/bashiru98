@@ -39,7 +39,7 @@
 <br />
   
  <a href="https://github.com/bashiru98">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Eroo36&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bashiru's GitHub Stats"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bashiru98&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bashiru's GitHub Stats"/>
 </a>
 
 [facebook]: https://www.facebook.com/bashiru.atulebukari.9
