@@ -1,4 +1,4 @@
-### Hi, I'm Bashiru,a passion driven developer who focuses on quality delivery of clean code and best practices. Determination, hardwork , humbleness and teamwork defines my personality.
+### Energetic and self-motivated professional, confident and creative person with proven skills in setting and achieving goals while working both independently and as a team player. Efficient in meeting deadlines with an ability to prioritize and accomplish multiple tasks without compromising on efficiency.
 
 ## I'm a Backend Developer and does some frontend devs!!
 
