@@ -43,6 +43,6 @@ Property | Data
 ## I'm a Backend Developer and does some frontend devs!!
 
 - 🌱 I’m open to exploring and learning new technologies
-- 🥅 2021 targets: Contribute to Open Source projects
+- 🥅 2022 targets: Contribute to Open Source projects
 - 🥅 Helping other developers
   
