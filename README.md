@@ -24,8 +24,8 @@ Property | Data
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/bashiru-bukari-187016140" target="blank"><img align="center" src="https://raw.githubusercontent.com/bashiru98/bashiru98/main/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:bukariatulebashiru@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/bashiru98/bashiru98/main/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+905422508519" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" height="30" width="50"/> </a>
+<a href="mailto:bukariatulebashiru@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/bashiru98/bashiru98/main/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a><a href="https://api.whatsapp.com/send?phone=+905422508519" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+
 </p>
 
 
