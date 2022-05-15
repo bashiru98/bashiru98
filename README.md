@@ -1,6 +1,6 @@
 ![](./src/header_.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Bashiru+Bukari;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Backend+enthusiast+;Xdevs+community+member+;Nodejs+Golang+python+expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Bashiru+Bukari;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Backend+enthusiast+;Pocket+network+community+member+;Nodejs+Golang+python+expert)](https://git.io/typing-svg)
 
 Property | Data
 --- | --- 
